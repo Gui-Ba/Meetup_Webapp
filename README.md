@@ -1,6 +1,7 @@
-# devmeetup-vue
+# Application meetup vue.js
 
 A meetup web application built with Vue + Vuetify + Firebase.
+Authentification user email firebase
 
 ## Build Setup
 
@@ -17,3 +18,4 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
+https://images.app.goo.gl/va1UWXqUADYDtd6T9
