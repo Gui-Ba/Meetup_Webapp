@@ -1,4 +1,4 @@
-# Application meetup vue.js version 1.1
+# Application meetup vue.js 
 
 A meetup webapp developped with Vue.js + Vuetify + Vuex.
 
