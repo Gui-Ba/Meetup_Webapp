@@ -2,7 +2,8 @@
 
 A meetup webapp developped with Vue.js + Vuetify + Vuex.
 
-I deploy this on Firebase : devmeetup-a5f2a.firebaseapp.com 
+I deploy this on Firebase : 
+devmeetup-a5f2a.firebaseapp.com 
 
 (mail : admin@admin.com  pwd : azerty)
 
@@ -11,8 +12,11 @@ Functions developped:
 - User's authentification by email via firebase
 - Create meetup (description, location, date)
 - List meetups
-- Register/unregister meetup
+- Action user : register/unregister meetup
 
+Next functions ongoing developement :
+- User's profil with photo, hobbies
+- List of users registered at a meetup
 
 ## Build Setup
 
