@@ -1,14 +1,16 @@
 # Application meetup vue.js
 
 A meetup webapp built with Vue + Vuetify + Vuex.
+
 I deploy this on Firebase : devmeetup-a5f2a.firebaseapp.com 
+
 (mail : admin@admin.com  pwd : azerty)
 
 Functions developped:
 - User's authentification by email via firebase
 - Create meetup (description, location, date)
-- List meetup
-- register/unregister meetup
+- List meetups
+- Register/unregister meetup
 
 
 ## Build Setup
